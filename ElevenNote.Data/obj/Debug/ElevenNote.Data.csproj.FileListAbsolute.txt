@@ -33,3 +33,5 @@ C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAP
 C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.first.resources
+C:\Users\Brian\Desktop\ElevenFiftyProjects\BlueBadge\ElevenNote\ElevenNote.WepAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
